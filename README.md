@@ -9,7 +9,7 @@ de manera no remunerada y va a terminar siendo usado por la municipalidad de Esq
 El programa se va a vender a la municipalidad de Esquel por la empresa Patagonia Software mediante un contrato a concretarse proximamente.
 
 Se usa una arquitectura de tres niveles ejemplificada en la siguiente imagen
-[imagen]
+![imagen](https://github.com/jonathanc0101/accionSocial/blob/imagenesYclutter/imagenes/dise%C3%B1o%20en%203%20niveles.png)
 
 Ejemplos del funcionamiento
 
