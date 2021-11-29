@@ -11,15 +11,17 @@ El programa usa una arquitectura de tres niveles ejemplificada en la siguiente i
 Ejemplos del funcionamiento del programa
 
 Listado de individuos que se nos muestra cuando abrimos el programa
-[imagen]
+![listado de individuos](https://raw.githubusercontent.com/jonathanc0101/accionSocial/imagenesYclutter/imagenes/Lista.PNG)
 
 Individuo:
 
 Grupo conviviente(distinto de familiar) del individuo
-[imagen]
-
-Acciones
-[imagen]
+![Datos del individuo y grupo conviviente](https://github.com/jonathanc0101/accionSocial/blob/imagenesYclutter/imagenes/GrupoConviviente.PNG)
 
 Informes
-[imagen]
+![Datos del individuo e informes](https://github.com/jonathanc0101/accionSocial/blob/imagenesYclutter/imagenes/Informes.PNG)
+
+Acciones
+![Datos del individuo y acciones](https://raw.githubusercontent.com/jonathanc0101/accionSocial/imagenesYclutter/imagenes/Acciones.PNG)
+
+
