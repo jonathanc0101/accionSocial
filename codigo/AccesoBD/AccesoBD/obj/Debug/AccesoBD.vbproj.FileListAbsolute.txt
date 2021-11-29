@@ -1,8 +1,0 @@
-C:\Users\Arturo\Source\Workspaces\Laboratorio\AccesoBD\AccesoBD\bin\Debug\AccesoBD.dll
-C:\Users\Arturo\Source\Workspaces\Laboratorio\AccesoBD\AccesoBD\bin\Debug\AccesoBD.pdb
-C:\Users\Arturo\Source\Workspaces\Laboratorio\AccesoBD\AccesoBD\bin\Debug\AccesoBD.xml
-C:\Users\Arturo\Source\Workspaces\Laboratorio\AccesoBD\AccesoBD\obj\Debug\AccesoBD.Resources.resources
-C:\Users\Arturo\Source\Workspaces\Laboratorio\AccesoBD\AccesoBD\obj\Debug\AccesoBD.vbproj.GenerateResource.Cache
-C:\Users\Arturo\Source\Workspaces\Laboratorio\AccesoBD\AccesoBD\obj\Debug\AccesoBD.dll
-C:\Users\Arturo\Source\Workspaces\Laboratorio\AccesoBD\AccesoBD\obj\Debug\AccesoBD.xml
-C:\Users\Arturo\Source\Workspaces\Laboratorio\AccesoBD\AccesoBD\obj\Debug\AccesoBD.pdb
