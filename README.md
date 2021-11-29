@@ -1,5 +1,6 @@
 # accionSocial
 Programa para la municipalidad de Esquel
++Este programa tiene solo datos de prueba inventados, no se han usado datos reales de personas reales. Estas personas no viven en los lugares donde sus +datos dicen, sinó en la imaginación de la persona que las cargó al programa en las largas horas de algún otoño patagónico.
 
 Este programa fue hecho por estudiantes de la catedra de "Laboratorio de programación y lenguajes" en la facultad de ingeniería de la UNPSJB sede Esquel
 Este programa fue hecho de manera no remunerada para la municipalidad de Esquel, Chubut.
