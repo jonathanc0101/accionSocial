@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Individuo", "Individuo\Individuo.vbproj", "{EC544C0D-D1DC-440D-9CEF-C0ACE98A9B15}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://psserver:8080/tfs/laboratorio%202021
+		SccProjectUniqueName0 = Individuo\\Individuo.vbproj
+		SccProjectName0 = Individuo
+		SccLocalPath0 = Individuo
+		SccLocalPath1 = .
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC544C0D-D1DC-440D-9CEF-C0ACE98A9B15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC544C0D-D1DC-440D-9CEF-C0ACE98A9B15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC544C0D-D1DC-440D-9CEF-C0ACE98A9B15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC544C0D-D1DC-440D-9CEF-C0ACE98A9B15}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
